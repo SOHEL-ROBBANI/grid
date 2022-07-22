@@ -1,0 +1,57 @@
+/*:root {
+  --primary-color: green;
+  --secondary-color: red;
+}
+
+.div {
+  height: 250px;
+  width: 250px;
+  background-color: aqua;
+}
+
+.div1 {
+  background-color: red;
+  position: absolute;
+  z-index: 1;
+  height: 50px;
+  width: 50px;
+}
+
+.div2 {
+  background-color: black;
+  position: absolute;
+  left: 150px;
+  top: 150px;
+  z-index: 2;
+  height: 100px;
+  width: 100px;
+}
+
+h1 {
+  color: aqua;
+}
+*/
+
+/* learn with sumit  grid*/
+
+body {
+  background-color: bisque;
+  font-size: xx-large;
+  color: white;
+  text-align: center;
+}
+.header {
+  background-color: cyan;
+}
+
+.menu {
+  background-color: red;
+}
+
+.content {
+  background-color: blue;
+}
+
+.footer {
+  background-color: yellowgreen;
+}
